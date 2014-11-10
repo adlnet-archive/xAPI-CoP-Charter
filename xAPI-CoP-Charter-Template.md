@@ -142,7 +142,8 @@ The following assumptions were taken into consideration in the development of th
 3. ADL will support the time investment for their staff to participate in the community.
 4. [additional assumption]
 
-### 5.2Constraints
+<a name="constraints"/>
+### 5.2 Constraints
 
 The following constraints were taken into consideration in the development of this community. 
 
@@ -150,7 +151,8 @@ The following constraints were taken into consideration in the development of th
 2. [additional constraint]
 3. [additional constraint]
 
-### 5.3Risks
+<a name="risks"/>
+### 5.3 Risks
 
 The table below lists the risks for this community, along with a proposed mitigation strategy.
 
@@ -160,9 +162,11 @@ The table below lists the risks for this community, along with a proposed mitiga
 | Community does not draw interest | [mitigation] |
 | [additional risk] | [mitigation] |
 
-## 6Community Organization
+<a name="organization"/>
+## 6. Community Organization
 
-### 6.1Roles and Responsibilities
+<a name="roles"/>
+### 6.1 Roles and Responsibilities
 
 This section describes the key roles supporting the community.
 
@@ -175,7 +179,8 @@ This section describes the key roles supporting the community.
 |  | Communications Lead | Person responsible for establishing mechanisms for communicating with the CoP. This will include coordinating any forms of messaging or collaboration using tools or forums. |
 |  | Technical Lead | Person responsible for providing technical expertise in regards to data formats, web technologies, and programming. |
 
-### 6.2Stakeholders (Internal and External)
+<a name="stakeholders"/>
+### 6.2 Stakeholders (Internal and External)
 
 A stakeholder is a person or organization – such as sponsors and the public – that is involved in the community, and/or that could positively or negatively impact the achievement of the community's objectives, and/or whose interests may be positively or negatively affected by the execution or completion of the community. The table below shows the stakeholders currently identified.
 
@@ -187,7 +192,8 @@ A stakeholder is a person or organization – such as sponsors and the public �
 |  |  |
 |  |  |
 
-## 7Community Charter approval
+<a name="approval"/>
+## 7. Community Charter approval
 
 The undersigned acknowledge they have reviewed the community charter and agree to launch the [Domain Area] Community of Practice. Changes to this community charter will be coordinated with and approved by the undersigned or their designated representatives.
 
