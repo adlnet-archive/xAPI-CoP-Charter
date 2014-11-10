@@ -47,7 +47,7 @@ VERSION HISTORY
 
 
 
-#1  Purpose of COP
+###1  Purpose of COP
 
 The [Domain Area] Community of Practice (CoP) charter documents information required by decision makers to approve and support the activities necessary for a successful launch, cultivation, and sustainability of the Community of Practice. The CoP charter includes the needs, scope, justification, and resource commitments.
 
