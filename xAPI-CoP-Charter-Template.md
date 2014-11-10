@@ -36,52 +36,59 @@ VERSION HISTORY
 *  7.    [Community Charter Approval](#approval)
    
 
-###1  Purpose of COP
+<a name="purpose"/>
+###1.  Purpose of COP
 
 The [Domain Area] Community of Practice (CoP) charter documents information required by decision makers to approve and support the activities necessary for a successful launch, cultivation, and sustainability of the Community of Practice. The CoP charter includes the needs, scope, justification, and resource commitments.
 
 The intended audience of the [Domain Area] Community of Practice community charter is the community sponsors, senior leadership, and the community members.
 
-###2 CoP Overview
+<a name="overview"/>
+###2. CoP Overview
 
 A CoP is a group of people connected by a common cause, role or purpose, which operates in a common modality. CoPS are a way of developing new knowledge, stimulating innovation, and sharing knowledge. Communities of practice knit people together with peers and their outputs can include leading practices, guidelines, knowledge repositories, technical problem and solution discussions, and strategies. Each xAPI CoP represents a group of professionals, informally bound to one another through a common classification of xAPI vocabulary requirements and common pursuit of solutions to satisfy those requirements. 
 
 [Your overview should explain the reason for the community to exist. Consider
 
-- .What is the long-term and short-term value of the CoP to community members?  The larger xAPI community?
-- .What learning opportunities will members have after joining?
-- .How will this greater knowledge enhance the domain area?] 
+- What is the long-term and short-term value of the CoP to community members?  The larger xAPI community?
+- What learning opportunities will members have after joining?
+- How will this greater knowledge enhance the domain area?] 
 
-## 3Justification
+<a name="justification"/>
+## 3. Justification
 
-### 3.1Experience API (xAPI)
+<a name="xapi"/>
+### 3.1 Experience API (xAPI)
 
 The xAPI specification was written to be flexible enough to meet the varying use cases of the eLearning community. This flexibility can lead to a degradation of interoperability if CoPs do not agree to certain conventions. These conventions and rules on how to use the xAPI can be decided upon by each CoP and applied to the base xAPI specification as profiles.
 
 The xAPI CoPS will generate a controlled vocabulary lists and design profiles. Some xAPI CoPS may also leverage the work from external CoPs, depending upon the domain area.
 
-## 4Scope
+<a name="scope"/>
+## 4. Scope
 
-### 4.1Mission
+<a name="mission"/>
+### 4.1 Mission
 
 [Your mission should concisely explain the purpose of the xAPI CoP. It should be the basis of decisions made by your group. Consider
 
-- .Why should this xAPI CoP exist? 
-- .What are the problems/issues/goals that the group may address?
-- .What will members achieve by joining this xAPI CoP?
+- Why should this xAPI CoP exist? 
+- What are the problems/issues/goals that the group may address?
+- What will members achieve by joining this xAPI CoP?
 
-### 4.2Goals
+<a name="goals"/>
+### 4.2 Goals
 
 The goals of the [Domain Area] Community of Practice are as follows: [tweak all goals as necessary for your CoP]
 
-- 
-  - .Develop a [Domain Area] CoP Profile for xAPI
-  - .Look for collaboration points with CoPs outside of [Domain Area]
-  - .Develop and support [Domain Area] best practices for xAPI 
-  - .Develop [Domain Area] xAPI Controlled Vocabulary
-  - .Develop [Domain Area] Design Profiles
-  - .[additional goals]
+  - Develop a [Domain Area] CoP Profile for xAPI
+  - Look for collaboration points with CoPs outside of [Domain Area]
+  - Develop and support [Domain Area] best practices for xAPI 
+  - Develop [Domain Area] xAPI Controlled Vocabulary
+  - Develop [Domain Area] Design Profiles
+  - [additional goals]
 
+<a name="activities"/>
 ### 4.3 Activities & Deliverables
 
 | # | **ACTIVITY LIST** | START | FINISH |
@@ -94,37 +101,39 @@ The goals of the [Domain Area] Community of Practice are as follows: [tweak all 
 | 1.5 | Provide CoP updates to ADL xAPI CoP |  |  |
 | 1.5 | Regular evaluations of CoP vocabulary |  |  |
 
-### 4.5Leaders/conveners
+<a name="leaders"/>
+### 4.4 Leaders/conveners
 
-- .[Leaders/conveners will be responsible for leading the meetings and establishing an agenda and objectives for the CoP. The leaders/conveners will be decided by the steering committee. It is recommended that at lest two leaders are chosen for each CoP so that there is a backup person in case one can no longer participate or is absent. List the leaders' names here.]
+- [Leaders/conveners will be responsible for leading the meetings and establishing an agenda and objectives for the CoP. The leaders/conveners will be decided by the steering committee. It is recommended that at lest two leaders are chosen for each CoP so that there is a backup person in case one can no longer participate or is absent. List the leaders' names here.]
 
-### 4.6Steering committee
+<a name="committee"/>
+### 4.5 Steering committee
 
-- .[The steering committee will be appointed at the initial meeting of the CoP. The steering committee will have the following positions: meeting leader/convener, a technical lead, a documentation lead, and a communications lead. List the names below or insert a link to the Steering Committee page.] 
+- [The steering committee will be appointed at the initial meeting of the CoP. The steering committee will have the following positions: meeting leader/convener, a technical lead, a documentation lead, and a communications lead. List the names below or insert a link to the Steering Committee page.] 
 
-### 4.7Membership
+<a name="membership"/>
+### 4.6 Membership
 
-- 
-  - .Operate around the following governance principles: participation, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability, and rules of engagement
-  - .Be open to all with an interest and who abide by community norms
-  - .Encourage the ongoing education of members and the deepening of expertise among members
+  - Operate around the following governance principles: participation, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability, and rules of engagement
+  - Be open to all with an interest and who abide by community norms
+  - Encourage the ongoing education of members and the deepening of expertise among members
 
-- .Members strive to create an environment of trust and to foster insightful, non-threatening discussion of ideas and experiences
-- .Members distribute leadership responsibilities and collectively share in the management of the community
-- .Membership and topics reflect [Domain Area] xAPI CoP and organizations
-- .Members agree to be respectful and use appropriate language in group discussions and to listen and respond to each other with open and constructive minds
-- .Members will not be afraid to respectfully challenge one another by asking questions, but refrain from personal attacks -- focus on ideas
-- .Members will participate to the fullest extent possible -- community growth depends on the inclusion of every individual voice
-- .Members commit to search for opportunities for consensus or compromise and for creative solutions
-- .Members will contribute to an atmosphere of problem solving rather than stating positions
-- .Members will attempt to build on each member's strengths, and help each other improve areas in need of further development
-- .[additional rule]
-- .[additional rule]
-- .[additional rule]
+- Members strive to create an environment of trust and to foster insightful, non-threatening discussion of ideas and experiences
+- Members distribute leadership responsibilities and collectively share in the management of the community
+- Membership and topics reflect [Domain Area] xAPI CoP and organizations
+- Members agree to be respectful and use appropriate language in group discussions and to listen and respond to each other with open and constructive minds
+- Members will not be afraid to respectfully challenge one another by asking questions, but refrain from personal attacks -- focus on ideas
+- Members will participate to the fullest extent possible -- community growth depends on the inclusion of every individual voice
+- Members commit to search for opportunities for consensus or compromise and for creative solutions
+- Members will contribute to an atmosphere of problem solving rather than stating positions
+- Members will attempt to build on each member's strengths, and help each other improve areas in need of further development
+- [additional rule]
 
-## 5Assumptions, Constraints, And Risks
+<a name="acr"/>
+## 5. Assumptions, Constraints, And Risks
 
-### 5.1Assumptions
+<a name="assumptions"/>
+### 5.1 Assumptions
 
 The following assumptions were taken into consideration in the development of this community. If any of these assumptions prove to be invalid then the community could face a possible risk. 
 
