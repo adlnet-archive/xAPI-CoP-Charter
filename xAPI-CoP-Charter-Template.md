@@ -6,8 +6,8 @@ This document should be drafted, facilitated, and finalized by each CoP's steeri
 
 Please note the following:
 
-- .Text surrounded by brackets [] should be updated to with your specific CoP name.
-- .All text included is optional and is as an example – you are not required to use any of the text shown in this template
+- Text surrounded by brackets [] should be updated to with your specific CoP name.
+- All text included is optional and is as an example – you are not required to use any of the text shown in this template
 
 
 
@@ -47,9 +47,7 @@ VERSION HISTORY
 
 TABLE OF CONTENTS
 
-| 1 Introduction |
-| --- |
-| 1.1 Purpose of COP Charter |
+| 1 Purpose of COP Charter |
 | 2 COP Overview |
 | 3 Justification |
 | 3.1 Experience API (xAPI) |
@@ -69,15 +67,15 @@ TABLE OF CONTENTS
 | 6.2 Stakeholders (Internal and External) |
 | 7 Community Charter approval |
 
-# 1Introduction
 
-## 1.1Purpose of COP Charter
+
+#1  Purpose of COP
 
 The [Domain Area] Community of Practice (CoP) charter documents information required by decision makers to approve and support the activities necessary for a successful launch, cultivation, and sustainability of the Community of Practice. The CoP charter includes the needs, scope, justification, and resource commitments.
 
 The intended audience of the [Domain Area] Community of Practice community charter is the community sponsors, senior leadership, and the community members.
 
-# 2COP Overview
+#2 CoP Overview
 
 A CoP is a group of people connected by a common cause, role or purpose, which operates in a common modality. CoPS are a way of developing new knowledge, stimulating innovation, and sharing knowledge. Communities of practice knit people together with peers and their outputs can include leading practices, guidelines, knowledge repositories, technical problem and solution discussions, and strategies. Each xAPI CoP represents a group of professionals, informally bound to one another through a common classification of xAPI vocabulary requirements and common pursuit of solutions to satisfy those requirements. 
 
