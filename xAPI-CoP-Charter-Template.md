@@ -1,4 +1,4 @@
-**xAPI CoP Charter Template**
+##xAPI CoP Charter Template
 
 **[DOMAIN AREA] COMMUNITY OF PRACTICE**
 
