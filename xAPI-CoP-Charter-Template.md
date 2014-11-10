@@ -97,9 +97,9 @@ The goals of the [Domain Area] Community of Practice are as follows: [tweak all 
 | 1.2 | Complete Community of Practice Charter |  |  |
 | 1.3 | Utilize Online Collaboration Tools: Calendar, google groups, webinars, etc. |  |  |
 | 1.4 | Participate in joint meetings |  |  |
-|  | Generate controlled vocabulary and design profile(s) |  |  |
-| 1.5 | Provide CoP updates to ADL xAPI CoP |  |  |
-| 1.5 | Regular evaluations of CoP vocabulary |  |  |
+| 1.5 | Generate controlled vocabulary and design profile(s) |  |  |
+| 1.6 | Provide CoP updates to ADL xAPI CoP |  |  |
+| 1.7 | Regular evaluations of CoP vocabulary |  |  |
 
 <a name="leaders"/>
 ### 4.4 Leaders/conveners
