@@ -91,7 +91,7 @@ The goals of the [Domain Area] Community of Practice are as follows: [tweak all 
 <a name="activities"/>
 ### 4.3 Activities & Deliverables
 
-| # | **ACTIVITY LIST** | START | FINISH |
+|   | **ACTIVITY LIST** | START | FINISH |
 | --- | --- | --- | --- |
 | 1.1 | Establish Community and Register with ADL xAPI Directory |  |  |
 | 1.2 | Complete Community of Practice Charter |  |  |
