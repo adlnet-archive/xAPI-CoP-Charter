@@ -1,4 +1,4 @@
-xAPI-CoP-Charter
+xAPI Community of Practice (CoP) Charter Template README
 ================
 
 This is a github version of the xAPI CoP Charter Template. For more information about the xAPI Community of Practice (CoP), visit http://xapi.adlnet.gov/xapi-cop-directory/
