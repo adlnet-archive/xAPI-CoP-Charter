@@ -22,30 +22,19 @@ VERSION HISTORY
 *	4. 	[Purpose of the CoP Charter](#purpose)  
     *	4.1 	[Mission)](#purpose)   
     *	4.2 	[Goals](#purpose)  
-
-
-
-| 1 Purpose of COP Charter |
-| 2 COP Overview |
-| 3 Justification |
-| 3.1 Experience API (xAPI) |
-| 4 Scope |
-| 4.1 Mission |
-| 4.2 Goals |
-| 4.3 Major ACTIVITIES & Deliverables |
-| 4.4 Leaders/conveners |
-| 4.5 Steering committee |
-| 4.6 Membership |
-| 5 Assumptions, Constraints, And Risks |
-| 5.1 Assumptions |
-| 5.2 Constraints |
-| 5.3 Risks |
-| 6 Community Organization |
-| 6.1 Roles and Responsibilities |
-| 6.2 Stakeholders (Internal and External) |
-| 7 Community Charter approval |
-
-
+    *	4.3 	[Activities & Deliverables](#purpose)  
+    *	4.4 	[Goals](#purpose)  
+    *	4.5 	[Goals](#purpose)  
+    *	4.6 	[Goals](#purpose)  
+*	5. 	[Assumptions, Constraints, And Risks](#purpose)  
+    *	5.1 	[Assumptions](#purpose) 
+    *	5.2 	[Constraints](#purpose) 
+    *	5.3   [Risks](#risks)
+ *	6. 	[Community Organization](#purpose)   
+    *	6.1   [Roles and Responsibilities](#risks)
+    *	6.2   [Stakeholders (Internal & Externa)](#risks)
+*  7.    [Community Charter Approval](#approval)
+   
 
 ###1  Purpose of COP
 
@@ -93,7 +82,7 @@ The goals of the [Domain Area] Community of Practice are as follows: [tweak all 
   - .Develop [Domain Area] Design Profiles
   - .[additional goals]
 
-### 4.3Major ACTIVITIES & Deliverables
+### 4.3 Activities & Deliverables
 
 | # | **ACTIVITY LIST** | START | FINISH |
 | --- | --- | --- | --- |
