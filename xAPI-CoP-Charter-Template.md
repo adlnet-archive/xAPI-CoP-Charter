@@ -14,7 +14,16 @@ VERSION HISTORY
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-TABLE OF CONTENTS
+##TABLE OF CONTENTS
+*	1. 	[Purpose of the CoP Charter](#purpose)  
+*	2. 	[CoP Overview](#purpose)  
+*	3. 	[Justification](#purpose)  
+    *	3.1 	[Experience API (xAPI)](#purpose)  
+*	4. 	[Purpose of the CoP Charter](#purpose)  
+    *	4.1 	[Mission)](#purpose)   
+    *	4.2 	[Goals](#purpose)  
+
+
 
 | 1 Purpose of COP Charter |
 | 2 COP Overview |
